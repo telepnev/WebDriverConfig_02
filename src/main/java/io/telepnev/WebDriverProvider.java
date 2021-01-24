@@ -9,7 +9,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 
 
-import java.util.Arrays;
+
 import java.util.function.Supplier;
 
 public class WebDriverProvider implements Supplier<WebDriver> {
